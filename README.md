@@ -6,9 +6,9 @@
 
 > A Machine Learning–powered Streamlit web app that predicts whether an e-commerce customer is likely to churn or stay — based on behavioral, transactional, and engagement data.
 
-![App Screenshot](images/app_preview.png)
+<!-- ![App Screenshot](images/app_preview.png)
 
----
+--- -->
 
 ## 🌟 **Overview**
 
