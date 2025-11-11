@@ -1,4 +1,8 @@
 # 🛒 Ecommerce Customer Churn Prediction
+<p align="center">
+  <img src="banner.png" width="800" alt="Churn Prediction Machine Learning Project Banner">
+</p>
+
 
 > A Machine Learning–powered Streamlit web app that predicts whether an e-commerce customer is likely to churn or stay — based on behavioral, transactional, and engagement data.
 
